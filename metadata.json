@@ -1,0 +1,6 @@
+{
+  "name": "Maharashtra Adventure Tourism Marketplace",
+  "description": "Discover and book premium outdoor experiences like trekking, camping, paragliding, and white-water rafting in Maharashtra, powered by local operators and an AI travel assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
