@@ -127,7 +127,7 @@ export default function ListingDetailModal({
         <div className="flex flex-1 flex-col overflow-y-auto md:flex-row">
           
           {/* Left Column (Details) */}
-          <div className="flex-1 p-6 md:p-8 overflow-y-auto max-h-[55vh] md:max-h-[60vh]">
+          <div className="flex-1 p-5 md:p-8 md:overflow-y-auto md:max-h-[60vh]">
             {/* Tabs Selector */}
             <div className="flex border-b border-slate-200">
               {[
